@@ -23,7 +23,7 @@ Feature：'section', 'round', 'temperature', 'humidity', 'capacity',
        'kick_off_hour', 'is_holiday', 'is_weekend', 'media', 'nhk', 'G大阪',
        '甲府', 'FC東京', '磐田', '名古屋', '大宮', '川崎F', '広島', '横浜FM', '浦和', '千葉', '新潟',
        '清水', '鹿島', '京都', '福岡', '大分', 'C大阪', '柏', '横浜FC', '神戸', '札幌', '東京V',
-       '山形', '湘南', '仙台', '鳥栖', '徳島', '松本', 'Ｃ大阪', 'Ｇ大阪', '川崎Ｆ', '長崎','weather_encoded','discomfort'<br>    
+       '山形', '湘南', '仙台', '鳥栖', '徳島', '松本', 'Ｃ大阪', 'Ｇ大阪', '川崎Ｆ', '長崎','weather_encoded','discomfort'<br>
 Target：'attendance'<br>
 
 ### まとめ
